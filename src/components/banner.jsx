@@ -45,9 +45,9 @@ function Banner() {
                         </div>
                         </div>
 
-                        <div className="profile">
+                        {/* <div className="profile">
                             <img className='profile_img' src="annu.jpg" />
-                        </div>
+                        </div> */}
                     </div>
                 </div>
                 {/* </div> */}
